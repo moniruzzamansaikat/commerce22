@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Commerce",
+    "enabled": true,
+    "alias": "commerce",
+    "description": "Ecommerce System",
+    "default": true,
+    "image": "/images/modules/commerce.svg",
+    "base_route": "commerce.product.index"
+  }
+]
